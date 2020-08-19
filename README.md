@@ -18,7 +18,7 @@ apartir do seu aplicativo nativo. Porque essa migração fica muito simples e f�
 <li> Javascript
 <li> Typescript
 <li> Expo & APIs
-
+  
 ## License 📕
 
 Released in 2020 📕 License
